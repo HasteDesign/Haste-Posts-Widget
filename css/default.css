@@ -1,0 +1,26 @@
+.hd-post-list {
+	list-style: none;
+	padding-left: 0;
+}
+
+.hd-post {
+	margin-bottom: 20px;
+}
+
+.hd-meta {
+	margin-bottom: 10px;
+}
+
+.hd-meta p {
+	font-size: smaller;
+	margin-bottom: 0;
+}
+
+.hd-comment-count {
+	margin: 10px 0;
+	font-size: 100%;
+}
+
+.hd-entry-title .hd-comment-count {
+	margin: 0 0 0 10px;
+}

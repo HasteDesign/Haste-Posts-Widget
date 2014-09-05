@@ -1,0 +1,172 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-27 19:19-0300\n"
+"PO-Revision-Date: 2014-08-27 19:21-0300\n"
+"Last-Translator: Haste Design <contato@hastedesign.com.br>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\web\\active\\birkson\\wp-content\\plugins\\hd-posts-widget\n"
+
+#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:45
+msgid "Widget Title"
+msgstr "Título do widget"
+
+#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:49
+msgid "Posts selection options"
+msgstr "Opções de seleção dos posts"
+
+#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:52
+#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:126
+msgid "Post type"
+msgstr "Post type"
+
+#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:54
+#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:72
+#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:90
+#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:122
+msgid "None"
+msgstr "Nenhum"
+
+#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:66
+msgid "Choose the post type."
+msgstr "Escolha o post type."
+
+#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:70
+msgid "Taxonomy"
+msgstr "Taxonomia"
+
+#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:84
+msgid "Choose a taxonomy."
+msgstr "Escolha uma taxonomia."
+
+#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:88
+msgid "Taxonomy terms selected by:"
+msgstr "Termos da taxonomia selecionados por:"
+
+#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:91
+msgid "Term slug"
+msgstr "Slug do termo"
+
+#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:92
+msgid "Term ID"
+msgstr "ID do termo"
+
+#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:94
+msgid "Choose the mode of term selection."
+msgstr "Escolha o modo de seleção do termo."
+
+#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:98
+msgid "Taxonomy terms"
+msgstr ""
+
+#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:100
+msgid "List the terms you want to retrieve posts from, separated by commas. Terms must belong to the taxonomy above."
+msgstr ""
+
+#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:104
+msgid "Number of posts"
+msgstr ""
+
+#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:106
+msgid "Set how many posts do you want to display. Use -1 to show all posts that matches the query."
+msgstr ""
+
+#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:110
+msgid "Order"
+msgstr ""
+
+#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:112
+msgid "Descending "
+msgstr ""
+
+#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:113
+msgid "Ascending "
+msgstr ""
+
+#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:115
+#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:134
+msgid "Choose the order the posts will appear."
+msgstr ""
+
+#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:119
+msgid "Order by"
+msgstr ""
+
+#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:121
+msgid "Date "
+msgstr ""
+
+#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:123
+msgid "ID"
+msgstr ""
+
+#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:124
+msgid "Author"
+msgstr ""
+
+#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:125
+msgid "Title"
+msgstr ""
+
+#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:127
+msgid "Slug"
+msgstr ""
+
+#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:128
+msgid "Last modified"
+msgstr ""
+
+#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:129
+msgid "Parent page/post"
+msgstr ""
+
+#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:130
+msgid "Random"
+msgstr ""
+
+#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:131
+msgid "Comment count"
+msgstr ""
+
+#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:132
+msgid "Order field value"
+msgstr ""
+
+#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:139
+msgid "Posts display options"
+msgstr ""
+
+#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:142
+msgid "Display posts title"
+msgstr ""
+
+#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:146
+msgid "Display post thumbnail"
+msgstr ""
+
+#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:150
+msgid "Display post excerpt"
+msgstr ""
+
+#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:154
+msgid "Display a \"read more\" button"
+msgstr ""
+
+#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:157
+msgid "Read more text"
+msgstr ""
+
+#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:158
+msgid "Read more"
+msgstr ""
+
+#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:162
+msgid "Display a comment count"
+msgstr ""
+
