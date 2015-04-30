@@ -2,171 +2,192 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-08-27 19:19-0300\n"
-"PO-Revision-Date: 2014-08-27 19:21-0300\n"
-"Last-Translator: Haste Design <contato@hastedesign.com.br>\n"
+"POT-Creation-Date: 2015-04-29 20:14-0300\n"
+"PO-Revision-Date: 2015-04-29 20:20-0300\n"
+"Last-Translator: Anyssa Ferreira <anyssa@hastedesign.com.br>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-KeywordsList: _;gettext;gettext_noop;_e\n"
 "X-Poedit-Basepath: .\n"
-"X-Poedit-SearchPath-0: C:\\web\\active\\birkson\\wp-content\\plugins\\hd-posts-widget\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: C:\\web\\github\\hd-posts-widget\n"
 
-#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:45
+#: C:\web\github\hd-posts-widget/widget-options.php:37
 msgid "Widget Title"
 msgstr "Título do widget"
 
-#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:49
+#: C:\web\github\hd-posts-widget/widget-options.php:41
 msgid "Posts selection options"
 msgstr "Opções de seleção dos posts"
 
-#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:52
-#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:126
-msgid "Post type"
-msgstr "Post type"
+#: C:\web\github\hd-posts-widget/widget-options.php:62
+msgid "Choose a post type."
+msgstr "Escolha o post type."
 
-#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:54
-#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:72
-#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:90
-#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:122
+#: C:\web\github\hd-posts-widget/widget-options.php:69
+#: C:\web\github\hd-posts-widget/widget-options.php:89
+#: C:\web\github\hd-posts-widget/widget-options.php:127
 msgid "None"
 msgstr "Nenhum"
 
-#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:66
-msgid "Choose the post type."
-msgstr "Escolha o post type."
-
-#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:70
-msgid "Taxonomy"
-msgstr "Taxonomia"
-
-#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:84
+#: C:\web\github\hd-posts-widget/widget-options.php:83
 msgid "Choose a taxonomy."
 msgstr "Escolha uma taxonomia."
 
-#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:88
+#: C:\web\github\hd-posts-widget/widget-options.php:87
 msgid "Taxonomy terms selected by:"
 msgstr "Termos da taxonomia selecionados por:"
 
-#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:91
+#: C:\web\github\hd-posts-widget/widget-options.php:90
 msgid "Term slug"
 msgstr "Slug do termo"
 
-#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:92
+#: C:\web\github\hd-posts-widget/widget-options.php:91
 msgid "Term ID"
 msgstr "ID do termo"
 
-#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:94
+#: C:\web\github\hd-posts-widget/widget-options.php:93
 msgid "Choose the mode of term selection."
 msgstr "Escolha o modo de seleção do termo."
 
-#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:98
+#: C:\web\github\hd-posts-widget/widget-options.php:98
 msgid "Taxonomy terms"
-msgstr ""
+msgstr "Termos da taxonomia"
 
-#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:100
-msgid "List the terms you want to retrieve posts from, separated by commas. Terms must belong to the taxonomy above."
+#: C:\web\github\hd-posts-widget/widget-options.php:100
+msgid ""
+"List the terms you want to retrieve posts from, separated by commas. Terms "
+"must belong to the taxonomy above."
 msgstr ""
+"Liste os termos que você deseja exibir posts, separe-os por vírgulas. "
+"Atenção: Os termos precisam pertencer à taxonomia definida acima."
 
-#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:104
-msgid "Number of posts"
+#: C:\web\github\hd-posts-widget/widget-options.php:105
+msgid "Number of posts to show"
+msgstr "Quantidade de posts a serem exibidos"
+
+#: C:\web\github\hd-posts-widget/widget-options.php:107
+msgid ""
+"Set how many posts do you want to display. Use -1 to show all posts that "
+"matches the query."
 msgstr ""
+"Defina quantos posts você gostaria de exibir. Use -1 para exibir todos os "
+"post que atenderem à query"
 
-#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:106
-msgid "Set how many posts do you want to display. Use -1 to show all posts that matches the query."
-msgstr ""
-
-#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:110
+#: C:\web\github\hd-posts-widget/widget-options.php:112
 msgid "Order"
-msgstr ""
+msgstr "Ordem"
 
-#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:112
+#: C:\web\github\hd-posts-widget/widget-options.php:114
 msgid "Descending "
-msgstr ""
+msgstr "Descendente"
 
-#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:113
+#: C:\web\github\hd-posts-widget/widget-options.php:115
 msgid "Ascending "
-msgstr ""
+msgstr "Ascendente"
 
-#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:115
-#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:134
+#: C:\web\github\hd-posts-widget/widget-options.php:117
+#: C:\web\github\hd-posts-widget/widget-options.php:149
 msgid "Choose the order the posts will appear."
-msgstr ""
+msgstr "Escolha a ordem em que os posts irão ser exibidos"
 
-#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:119
+#: C:\web\github\hd-posts-widget/widget-options.php:122
 msgid "Order by"
-msgstr ""
+msgstr "Ordernar por"
 
-#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:121
+#: C:\web\github\hd-posts-widget/widget-options.php:125
 msgid "Date "
-msgstr ""
+msgstr "Data"
 
-#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:123
+#: C:\web\github\hd-posts-widget/widget-options.php:129
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
-#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:124
+#: C:\web\github\hd-posts-widget/widget-options.php:131
 msgid "Author"
-msgstr ""
+msgstr "Autor"
 
-#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:125
+#: C:\web\github\hd-posts-widget/widget-options.php:133
 msgid "Title"
-msgstr ""
+msgstr "Título"
 
-#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:127
+#: C:\web\github\hd-posts-widget/widget-options.php:135
+msgid "Post type"
+msgstr "Post type"
+
+#: C:\web\github\hd-posts-widget/widget-options.php:137
 msgid "Slug"
-msgstr ""
+msgstr "Slug"
 
-#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:128
+#: C:\web\github\hd-posts-widget/widget-options.php:139
 msgid "Last modified"
-msgstr ""
+msgstr "Modificado a última vez"
 
-#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:129
+#: C:\web\github\hd-posts-widget/widget-options.php:141
 msgid "Parent page/post"
-msgstr ""
+msgstr "Página/post Pai"
 
-#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:130
+#: C:\web\github\hd-posts-widget/widget-options.php:143
 msgid "Random"
-msgstr ""
+msgstr "Aleatório"
 
-#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:131
+#: C:\web\github\hd-posts-widget/widget-options.php:145
 msgid "Comment count"
-msgstr ""
+msgstr "Contador de comentários"
 
-#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:132
+#: C:\web\github\hd-posts-widget/widget-options.php:147
 msgid "Order field value"
-msgstr ""
+msgstr "Valor do campo de ordenação"
 
-#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:139
+#: C:\web\github\hd-posts-widget/widget-options.php:153
 msgid "Posts display options"
-msgstr ""
+msgstr "Opções de exibição dos posts"
 
-#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:142
+#: C:\web\github\hd-posts-widget/widget-options.php:156
 msgid "Display posts title"
-msgstr ""
+msgstr "Exibir títulos dos posts"
 
-#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:146
+#: C:\web\github\hd-posts-widget/widget-options.php:160
 msgid "Display post thumbnail"
-msgstr ""
+msgstr "Exibir thumbnail do post"
 
-#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:150
+#: C:\web\github\hd-posts-widget/widget-options.php:163
+msgid "Featured Image Size [Default is thumbnail]"
+msgstr "Tamanho da imagens destacada [Padrão é full]"
+
+#: C:\web\github\hd-posts-widget/widget-options.php:168
+msgid "Display post date"
+msgstr "Exibir data do post"
+
+#: C:\web\github\hd-posts-widget/widget-options.php:172
+msgid "Display post author"
+msgstr "Exibir autor do post"
+
+#: C:\web\github\hd-posts-widget/widget-options.php:176
+msgid "Display post taxonomy"
+msgstr "Exibir taxonomia do post"
+
+#: C:\web\github\hd-posts-widget/widget-options.php:180
 msgid "Display post excerpt"
-msgstr ""
+msgstr "Exibir resumo do post"
 
-#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:154
+#: C:\web\github\hd-posts-widget/widget-options.php:184
 msgid "Display a \"read more\" button"
-msgstr ""
+msgstr "Exibir um botão de \"Leia mais\""
 
-#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:157
+#: C:\web\github\hd-posts-widget/widget-options.php:187
 msgid "Read more text"
-msgstr ""
+msgstr "Texto do \"Leia mais\""
 
-#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:158
-msgid "Read more"
-msgstr ""
+#: C:\web\github\hd-posts-widget/widget-options.php:188
+msgid "Read more &raquo;"
+msgstr "Leia mais &raquo;"
 
-#: C:\web\active\birkson\wp-content\plugins\hd-posts-widget/widget-options.php:162
+#: C:\web\github\hd-posts-widget/widget-options.php:192
 msgid "Display a comment count"
-msgstr ""
+msgstr "Exibir contador de comentários"
 
+#~ msgid "Taxonomy"
+#~ msgstr "Taxonomia"
