@@ -1,13 +1,14 @@
 Haste Posts Widget
 ==================
 
-Contributors: allysonsouza, anyssa
-Tags: widget, posts, custom posts, customs posts widget
-Requires at least: 3.0.1
-Tested up to: 4.3
-Stable tag: 4.3
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+- Contributors: allysonsouza, anyssa
+- Tags: widget, posts, custom posts, customs posts widget
+- Requires at least: 3.0.1
+- Tested up to: 4.3
+- Stable tag: 4.3
+- License: GPLv2 or later
+- License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
 
 Add a Widget that list your posts and custom post types in your sidebars with simple parameters.
 
